@@ -1,4 +1,4 @@
-## Hello world, I am Giovanna!😀
+## Hello world, I'm Giovanna!😀
 <img align='right' src='https://media.giphy.com/media/oN7tZbPMlu6sMMS2ZO/giphy.gif' width='150'>
  <div> 
   <a href="https://instagram.com/nantesgi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
