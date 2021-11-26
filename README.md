@@ -29,6 +29,8 @@ I'm currently Software Engineering student at UFMS (Universidade Federal do Mato
 </div>
   
   ##
+ 
+ ![](https://komarev.com/ghpvc/?username=nantesgi&label=📈+You+are+visitor+number&color=green)
   
 
   
