@@ -30,8 +30,9 @@ I'm currently Software Engineering student at UFMS (Universidade Federal do Mato
   
   ##
  
- ![](https://komarev.com/ghpvc/?username=nantesgi&label=📈+You+are+visitor+number&color=green)
   
 
   
 ![Snake animation](https://github.com/nantesgi/nantesgi/blob/output/github-contribution-grid-snake.svg)
+ 
+![](https://komarev.com/ghpvc/?username=nantesgi&label=📈+You+are+visitor+number&color=green)
