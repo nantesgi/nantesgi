@@ -8,8 +8,6 @@
 Passionate about technology, and seeking innovation through programming!
 
 I'm currently Software Engineering student at UFMS (Universidade Federal do Mato Grosso do Sul) and a social entrepreneur. 
-
-“Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all."
      
   ##
 
