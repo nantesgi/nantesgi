@@ -7,7 +7,7 @@
 
 Passionate about technology, and seeking innovation through programming!
 
-I'm currently Software Engineering student at UFMS (Universidade Federal do Mato Grosso do Sul) and a social entrepreneur. 
+I'm currently Software Engineering student at UFMS (Universidade Federal de Mato Grosso do Sul). 
      
   ##
 
